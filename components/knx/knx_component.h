@@ -8,7 +8,7 @@
 #include "esphome/components/uart/uart.h"
 #include "knx_telegram.h"
 
-using namespace std;
+
 static const char *const TAG = "knx"; 
 
 namespace esphome {
